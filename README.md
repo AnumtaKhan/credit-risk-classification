@@ -31,4 +31,4 @@ I then analyzed the value_counts again, but this time I split the resampled data
 
 
 ### Summary:
-I would make a recommendation to use the resampled model because it performs best. The Balanced Accuracy score of this model was 99% and the data was balanced. This indicates that the model makes lesser mistakes in identifyinf non-healthy loans. Lastly, this model also gives less false positives.
+I would make a recommendation to use the resampled model because it performs best. The Balanced Accuracy score of this model was 99% and the data was balanced. This indicates that the model makes lesser mistakes in identifying non-healthy loans. Lastly, this model also gives less false positives.
