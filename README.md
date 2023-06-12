@@ -1,6 +1,13 @@
 ## Module 20 Challenge
 
-#### Please see the attached Credit Risk Classification file and my Credit Risk Analysis Report below:
+This project aimed to investigate the Toronto crime rates. The Toronto Police Department has an open data file available in this URL: 
+https://data.torontopolice.on.ca/pages/open-data
+<p>
+<h2>Project Description:</h2>
+This application is written in Python. The user needs to install or run locally in a machine the CSV files.
+
+With this project we will identify the types of crime that happened in Toronto. The data retrieved in the CSV files are from 2014 to 2022. Data analysis included the top 3 crimes based on the premises type (outside, houses, apartment, commercial, etc) they happened, the occurance, the neighbourhoods affected. Lastly, we also predict the total number of crimes that will happen in 2023.
+<p>
 
 
 ## Credit Risk Analysis Report
